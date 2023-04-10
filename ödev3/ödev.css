@@ -1,0 +1,22 @@
+a {
+    text-transform: uppercase;
+   color: red;
+
+   }
+   body{
+    background-color: rgb(4, 4, 4);
+
+   }
+   h1{
+    color:blue
+   }
+   p{ 
+    color:white
+   }
+ li:a{
+    color:red
+ }
+ .color-blue{
+    color:blue
+ }
+
