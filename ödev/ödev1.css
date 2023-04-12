@@ -1,0 +1,46 @@
+.container{
+    margin-left: 400px;
+}
+.content{
+    
+    overflow: hidden;
+    text-align: center; 
+}
+.search{
+    margin: auto;
+}
+
+
+
+
+
+
+.red{
+background-color: rgb(249, 250, 249);
+}
+.blue{
+background-color: blue;
+}
+.card{
+   width: 200px;
+  float: left;
+   padding: 5%;
+   margin-left: 8%;
+   
+   
+   
+  
+
+  
+   
+}
+.yellow{
+    background-color: yellow;
+}
+.ayar{
+   
+    height: 30px;
+    padding: 20px;
+}
+
+  
